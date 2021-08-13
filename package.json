@@ -1,0 +1,34 @@
+{
+	"name": "@mobilyte/nativescript-quiet",
+	"version": "1.0.0",
+	"description": "This is a NativeScript wrapper around the Quiet Project, which enables the transfer of data using sound as the transfer medium.",
+	"main": "index",
+	"typings": "index.d.ts",
+	"nativescript": {
+		"platforms": {
+			"ios": "6.0.0",
+			"android": "6.0.0"
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MobilyteApps/NativescriptPluginQuiet.git"
+	},
+	"keywords": [
+		"NativeScript",
+		"Quiet",
+		"TypeScript",
+		"iOS",
+		"Android"
+	],
+	"author": {
+		"name": "Vishnu Sharma",
+		"email": "vishnu.sharma@infostride.com"
+	},
+	"bugs": {
+		"url": "https://github.com/MobilyteApps/NativescriptPluginQuiet/issues"
+	},
+	"license": "Apache-2.0",
+	"homepage": "https://github.com/NativeScript/plugins",
+	"readmeFilename": "README.md"
+}
