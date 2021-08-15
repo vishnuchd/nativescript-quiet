@@ -1,3 +1,4 @@
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vishnuchd)
 # @mobilyte/nativescript-quiet
 
 This is a [**NativeScript**](https://nativescript.org) wrapper around the [**Quiet Project**](https://github.com/quiet/quiet), which enables the transfer of data using sound as the transfer medium. This has a number of benefits:
